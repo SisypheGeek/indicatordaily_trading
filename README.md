@@ -1,0 +1,2 @@
+# indicatordaily_trading
+newsletter
